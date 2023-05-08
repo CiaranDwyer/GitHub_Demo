@@ -31,3 +31,5 @@ target
 classes/
 lib/
 *.log
+*.xml
+idea/
