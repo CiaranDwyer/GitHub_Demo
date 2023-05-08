@@ -1,2 +1,2 @@
-# Selenium-Cucumber
+# GitHub Lesson
 Selenium-Cucumber
